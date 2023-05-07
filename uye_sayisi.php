@@ -6,7 +6,9 @@ $postcount = $post->countPost();
 ?>
 
 <html>
-<head></head>
+<head>
+
+</head>
 <body>
 
 <center>

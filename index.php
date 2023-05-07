@@ -10,6 +10,9 @@ $post = new Post;
 
 $fetch_post = $post->readAllPost();
 
+
+
+
 foreach ($fetch_post as $value):
 	
  ?>
